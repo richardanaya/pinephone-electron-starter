@@ -10,3 +10,4 @@ export PATH=$PATH:~/.node/bin
 npm install -g electron
 electron main.js
 ```
+![electron on pinephone](electron.jpg)
